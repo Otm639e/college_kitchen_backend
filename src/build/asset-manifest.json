@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/college-kitchen/static/css/main.485c57a9.chunk.css",
+    "main.js": "/college-kitchen/static/js/main.98dec8c7.chunk.js",
+    "main.js.map": "/college-kitchen/static/js/main.98dec8c7.chunk.js.map",
+    "runtime-main.js": "/college-kitchen/static/js/runtime-main.ea666c88.js",
+    "runtime-main.js.map": "/college-kitchen/static/js/runtime-main.ea666c88.js.map",
+    "static/js/2.1aa87002.chunk.js": "/college-kitchen/static/js/2.1aa87002.chunk.js",
+    "static/js/2.1aa87002.chunk.js.map": "/college-kitchen/static/js/2.1aa87002.chunk.js.map",
+    "static/js/3.887ca19d.chunk.js": "/college-kitchen/static/js/3.887ca19d.chunk.js",
+    "static/js/3.887ca19d.chunk.js.map": "/college-kitchen/static/js/3.887ca19d.chunk.js.map",
+    "index.html": "/college-kitchen/index.html",
+    "static/css/main.485c57a9.chunk.css.map": "/college-kitchen/static/css/main.485c57a9.chunk.css.map",
+    "static/js/2.1aa87002.chunk.js.LICENSE.txt": "/college-kitchen/static/js/2.1aa87002.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/college-kitchen/static/media/oranges.22ab18d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea666c88.js",
+    "static/js/2.1aa87002.chunk.js",
+    "static/css/main.485c57a9.chunk.css",
+    "static/js/main.98dec8c7.chunk.js"
+  ]
+}
